@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ToolBar</string>
+
+    //title
+    <string name="hist">History</string>
+    <string name="dist">Distance</string>
+    <string name="reach">How to reach?</string>
+    <string name="time">Opening Time</string>
+    <string name="Spec">Speciality</string>
+
+    //Dec
+    <string name="hist_desc">The temple was founded in 1893 by Dagadusheth Halwai, a sweetmart seller who became a wealthy businessman. Halwai had lost his son the previous year, and at the request of his guru created murtis (image of a deity) of Ganesha and Dattatreya. He later established the Halwai Ganapati Trust. Bal Gangadhar Tilak, during the British Raj, gave a public form to the Ganesh festival celebrations as a way of getting around an order that barred public meetings.</string>
+    <string name="time_desc">
+TEMPLE SCHEDULE	RITUAL / ACTIVITY
+6.00 A.M	Temple Opens
+6.00 A.M. TO 7.30 A.M.	Darshan For General Public
+7.30 A.M. TO 7.45 A.M.	Suprabhatam Aarti (Morning Aarti or Prayer)
+8.15 A.M. TO 1.30 P.M.	Darshan For General Public
+1.30 P.M. TO 2.00 P.M.	Naivedyam Aarti
+2.00 P.M. TO 3.00 P.M.	Darshan For General Public
+3.00 P.M. TO 3.15 P.M.	Madhyana Aarti
+3.15 P.M. TO 8 P.M.	Darshan For General Public
+8.00 P.M. TO 9.00 P.M.	Mahamangal Aarti
+8.15 P.M. TO 10.30 P.M.	Darshan For General Public
+10.30 P.M. TO 10.45 P.M.	Shejarti
+10.45 TO 11.00 P.M.	Darshan For General Public
+11.00 P.M.	Temple Closes</string>
+</resources>
